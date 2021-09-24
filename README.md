@@ -12,12 +12,13 @@
 <a href="https://www.linkedin.com/in/silvio-lopes-dias-69bbba214/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
+<br>
+
+<img src="./src/assets/imagemHome.png" width="200px" alt="img"/> 
+<img src="./src/assets/imagemUsers.png" width="200px" alt="img"/> <br>
 
 
-<img src="./src/assets/imagemHome.png" alt="img"> <br> <img src="./src/assets/imagemUsers.png" alt="img"> <br>
-
-
-> Este projeto teve por objetivo colocar em pratica  habilidades no HTML e CSS e Javascript e React.
+> Este projeto teve por objetivo colocar em prática  habilidades no HTML e CSS e Javascript e React.
 
 ### Ajustes e melhorias
 
