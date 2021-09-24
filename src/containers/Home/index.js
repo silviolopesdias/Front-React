@@ -4,17 +4,11 @@ import { useHistory } from "react-router-dom";
 
 import People from "../../assets/peoples.svg";
 import Arrow from "../../assets/arrow.svg";
-import  H1  from "../../components/Title"
-import  ContainerItens  from "../../components/ContainerItens"
-import Button from "../../components/Button"
+import H1 from "../../components/Title";
+import ContainerItens from "../../components/ContainerItens";
+import Button from "../../components/Button";
 
-
-import {
-  Container,
-  Image,
-  InputLabel,
-  Input,  
-} from "./styles";
+import { Container, Image, InputLabel, Input } from "./styles";
 
 function App() {
   const [users, setUsers] = useState([]);
